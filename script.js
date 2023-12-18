@@ -7,6 +7,3 @@ const f1 = ()=> {
 
 button.addEventListener("click",f1);
 
-function x() {
-	button.removeEventListener("click",f1);
-}
