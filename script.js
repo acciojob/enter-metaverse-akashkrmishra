@@ -1,9 +1,5 @@
 //your JS code here. If required.
-const button = document.getElementById("enterbtn");
-
-const f1 = ()=> {
-	console.log("Entered Metaverse");
+function enter() {
+	document.getElementById('status').innerHTML = '<h1> Entered Metaverse</h1>'
+	
 }
-
-button.addEventListener("click",f1);
-
