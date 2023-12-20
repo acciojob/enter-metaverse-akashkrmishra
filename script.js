@@ -6,6 +6,6 @@
 
 
 function enter() {
-document.querySelector("p").innerHTML = "Entered Metaverse";
+document.querySelector("p").innerHTML = "<h1>Entered Metaverse</h1>";
 	
 }
