@@ -6,6 +6,6 @@
 
 
 function enter() {
-document.getElementById("status").innerHTML = "Entered Metaverse";
+document.querySelector("p").innerHTML = "Entered Metaverse";
 	
 }
